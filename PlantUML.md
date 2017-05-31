@@ -9,4 +9,7 @@
 ctrl + shift + p 启动命令 输入 uml p 启动PlantUML Preview  
 左边输入脚本，右边将实时显示UML图像
 
-[img url=https://github.com/runceel/plantumlpreview/blob/master/images/introduction.gif?raw=true]
+![Alt text](https://github.com/runceel/plantumlpreview/blob/master/images/introduction.gif?raw=true)
+
+##中文文档
+http://translate.plantuml.com/zh/PlantUML_Language_Reference_Guide_ZH.pdf
