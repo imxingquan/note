@@ -11,5 +11,5 @@ ctrl + shift + p 启动命令 输入 uml p 启动PlantUML Preview
 
 ![Alt text](https://github.com/runceel/plantumlpreview/blob/master/images/introduction.gif?raw=true)
 
-##中文文档
+##中文文档  
 http://translate.plantuml.com/zh/PlantUML_Language_Reference_Guide_ZH.pdf
