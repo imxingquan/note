@@ -1,3 +1,6 @@
+## awesome-dotnet 
+https://github.com/jobbole/awesome-dotnet-cn
+
 ## 语法分析器 GOLDParse 
 http://www.goldparser.org
 
